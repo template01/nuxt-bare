@@ -5,7 +5,7 @@
   "author": "Lasse <contact@template01.info>",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "nuxt": "^1.0.0-rc3"
   },
   "scripts": {
     "dev": "nuxt",
